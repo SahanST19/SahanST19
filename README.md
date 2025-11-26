@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sahan Tharuka</h1>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 <h3 align="center">👨‍💻 Computer Engineering Undergraduate I am a Computer Engineering student passionate about learning new technologies and software development. I am currently building my foundation in programming and engineering concepts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahanst19&label=Profile%20views&color=0e75b6&style=flat" alt="sahanst19" /> </p>
