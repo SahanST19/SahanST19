@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahanst19" alt="sahanst19" /></a> </p>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - 🔭 I’m currently working on **University Projects and Web Development**
 
 - 🌱 I’m currently learning **Full Stack Development and Software Engineering concepts**
